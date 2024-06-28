@@ -1,0 +1,1 @@
+# ArgoCD-simple-project
